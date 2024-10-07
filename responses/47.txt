@@ -1,0 +1,184 @@
+Q1. Timestamp 
+A. 25/08/2024 00:32:09 
+
+Q2. Name 
+A. Alina Hasan 
+
+Q3. Age 
+A. 22 
+
+Q4. Gender 
+A. Female 
+
+Q5. Living place(Home district) 
+A. Dhaka 
+
+Q6. Contact no(Optional) 
+A. nan 
+
+Q7. Email(optional) 
+A. nan 
+
+Q8. Education 
+A. B.Sc, Computer Science and Engineering  
+
+Q9. Occupation 
+A. Unemployed  
+
+Q10. Electronic devices used by you 
+A. Smart Phone, Laptop or Desktop 
+
+Q11. Do you use social media? 
+A. Yes 
+
+Q12. How many hours in a day do you use social media? 
+A. 2 
+
+Q13. How frequently do you buy products online? 
+A. Twice per month 
+
+Q14. What are the advantages or disadvantages of shopping through social media? 
+A. Advantage: The Instagram algorithm for example brings you the exact products you were looking for.
+Disadvantage: Your privacy is violated. How do they even know what you were looking for?  
+
+Q15. Do you have any online portal of your shop?  
+A. Yes I would make a social media handle. The current market is very competitive, it's best to create a social media handle to let people know . 
+
+Q16. If you don't have a online portal of your shop, which will you create first? 
+A. Social media first then website. People are more familiar with social media. They would rather send a direct message than click on a suspicious link before making a purchase.  
+
+Q17. "When I go to any website I look for social media handle." How much do you agree? 
+A. Neutral 
+
+Q18. What is your impression about websites  not having social media handle and What is your impression about social media handles not having websites? 
+A. When we shop online we want to go through reviews first. A website can easily delete their own reviews if it paints them in a bad light but on social media, anyone can tag the business when posting their review preventing them from deleting it. So a website without a social media handle seems very unauthentic.  
+
+Q19. Over shopping in websites and shopping in social media which one you will pick? why? 
+A. Social media >>> Website.  
+
+Q20. "In offline we used to go in different shops to review and research about products and to guess current market price. We can also do the same via social media".  How much do you agree and why? 
+A. Disagree. It's easy to rig prices over social media by posting a fake "quality" product.  
+
+Q21. "Many people likes talking one to one with shopkeeper during buying products. Social media comes with chatting feature where you can chat one to one with anyone you like. Chatting with shopkeeper or shop social media handle replicates one to one talking. "  How much do you agree and why. 
+A. Not necessarily true. I have dealt with very anti-social employees on social media making it hard to get any information on the product I want to buy.  
+
+Q22. "Buying in social media is closer to physical shopping than website."  How much do you agree and why. 
+A. Disagree. When you go shopping for groceries/clothes you want to feel the product in your hands. Social media can't replicate that (yet). 👀 
+
+Q23. "Social media is more convenient than shop websites". Do you agree. 
+A. nan 
+
+Q24. "Social media is easy to use then shopping websites."  How much do you agree? 
+A. Agree 
+
+Q25. "It is more human friendly and less mechanical to shop in social media than in websites."  How much do you agree? 
+A. Agree 
+
+Q26. "Social media handles lacks the formality of website.  "How much do you agree. 
+A. Disagree 
+
+Q27. Do you like lack of formality or formality of social media shops? 
+A. It depends on the business itself. Most of my interactions with social media business handles has been pretty formal.  
+
+Q28. Do you think it is the reason for social media being more or less convenient? 
+ 
+A. Like I said depends on the business itself and the convenience depends on how the well the employees are capable of charming their customers into buying in my opinion. I don't think it matters whether it's formal or informal. 
+
+Q29. "Mass people of Bangladesh can use social media more skilfully than websites. " Do you agree.  
+A. Strongly Agree 
+
+Q30. "Mass people uses social media more than any other websites. Its interface are familiar to people. So it is more intuitive to them for using social media." Do you agree. 
+A. Strongly Agree 
+
+Q31. "Different websites has different interface. Its make harder for mass people to use it." Do you agree 
+A. Strongly Agree 
+
+Q32. "Shops with more social media activity seems more trustworthy." Do you agree. 
+A. Agree 
+
+Q33. "Familiar shops with known name makes them trustworthy." Do you agree. 
+A. Agree 
+
+Q34. When you see many posts or activities you get familiar to the name of the shop. How does it influences you? 
+A. I feel the urge to go through their products more often. 
+
+Q35. Do you check for reviews of a store in social media before buying any product? If yes how the review influences you? 
+A. Yes oftentimes I check the comments, story highlights of reviews, tags, etc.  
+
+Q36.  "No of stars or no of positive reviews reflect the credibility." Do you agree. 
+A. Agree 
+
+Q37. "After buying products,  I always give feedback about their product in their social media handle." Do you agree. 
+A. Neutral 
+
+Q38. "My review will help someone in future to take their decisions." Do you agree.  
+A. Agree 
+
+Q39. "It is useful in social media that feedback can be given both personally and privately in social media." Do you agree? 
+A. Agree 
+
+Q40. If you buy any product form a social media handle, social media algorithm will bring that shop again and again. How does this influence you to buy again? 
+A. I have rarely experienced this. I instead get bombarded by businesses that sell SIMILAR products.  
+
+Q41. The above-mentioned feature is very useful. How much do you agree? 
+A. Ratings could be useful however if as few as 10 people rate, then it's not very helpful.  
+
+Q42. "When I go to a physical shop and read review of products of that shop on social media."  Do you agree 
+A. Agree 
+
+Q43. "Reviews of social media handle influence my decision in physical stores." Do you agree.  
+A. Agree 
+
+Q44. "I always share review of a physical store in social media." Do you agree. 
+A. Neutral 
+
+Q45. "It is easier to give review in social media than physically."  Do you agree 
+A. Agree 
+
+Q46. How much your social media influences you to from selecting a shop to buying something from that shop? 
+A. Greatly. 
+
+Q47. Do you have any relatives in rural area? 
+A. Yes. 
+
+Q48. What percentage of rural people use social media at a moderate rate? (checks social media 2-3 times daily) 
+A. 100% of them.  
+
+Q49. Now a days, different online shops without any offline outlet are there. Normally they use their own home to store and also as shop. How frequently this phenomenon has been observed by you in your rural area?  
+A. I have yet to observe this.  
+
+Q50. Do you think using social media as their method of advertisement is effective? why? 
+A. Yes, very effective. With people constantly checking social media, of course they'll take notice of these businesses.  
+
+Q51. How frequently do you check emails?  
+A. Everytime I get a new mail I check instantly. 
+
+Q52. Which form of advertisement do you think will reach widely in Bangladesh? 
+A. Social media ads. 
+
+Q53. Do you think promotions or special offers can be broadcast effectively via social media more effectively?  
+A. Yes. 
+
+Q54. How you can be contacted and reached except calling via phone? 
+A. Social media/mail 
+
+Q55. Any further opinion 
+A. I don't know if this helps but I have a strong aversion to products that have no description on social media. For example, if a new skin care product is being advertised but none of it's ingredients are stated, I'm likely to ignore it.  
+
+Q56. Any Comments about questioneer 
+A. nan 
+
+Q57. What are the advantages or disadvantages of Conducting Business through social media? 
+A. Advantage: Better reach. 
+
+Disadvantage: Miscommunication is always of essence.  
+
+Q58. What are the reasons of above choice 
+A. nan 
+
+Q59. Any further opinion.1 
+A. nan 
+
+Q60. Social media has very little entry barrier compared to websites. How much do you agree? 
+A. nan 
+

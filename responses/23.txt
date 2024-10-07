@@ -1,0 +1,181 @@
+Q1. Timestamp 
+A. 20/11/2022 09:10:58 
+
+Q2. Name 
+A. Mohaimininul Islam 
+
+Q3. Age 
+A. 23 
+
+Q4. Gender 
+A. Male 
+
+Q5. Living place(Home district) 
+A. Majhira, bogura 
+
+Q6. Contact no(Optional) 
+A. . 
+
+Q7. Email(optional) 
+A. . 
+
+Q8. Education 
+A. Engr 
+
+Q9. Occupation 
+A. Student 
+
+Q10. Electronic devices used by you 
+A. smartphone, laptop 
+
+Q11. Do you use social media? 
+A. yes 
+
+Q12. How many hours in a day do you use social media? 
+A. daily 1 hr 
+
+Q13. How frequently do you buy products online? 
+A. once in 3 4 months 
+
+Q14. What are the advantages or disadvantages of shopping through social media? 
+A. এক জায়গা থেকে সব পাওয়া যায়, সব ইনফো পাওয়া যায় না শপের 
+
+Q15. Do you have any online portal of your shop?  
+A. হ্যা, বেশি মানুষকে রিচ করতে পারবো 
+
+Q16. If you don't have a online portal of your shop, which will you create first? 
+A. ওয়েবসাইট, সোশ্যাল মিডিয়াতে ওয়েবসাইটের লিনক থাকবে। ওয়েবসাইট না থাকলে নির্ভরযোগ্য লাগে না 
+
+Q17. "When I go to any website I look for social media handle." How much do you agree? 
+A. মাঝে মাঝে করি, যদি আপডেট চাই পরে প্রোডাক্ট কিনার জন্যে। 
+
+Q18. What is your impression about websites  not having social media handle and What is your impression about social media handles not having websites? 
+A. ব্রান্ডেড ওয়েবসাইট এর জন্যে ঠিক আছে, কিন্তু কম ফেমাসের জন্যে থাকা উচিত 
+
+Q19. Over shopping in websites and shopping in social media which one you will pick? why? 
+A. ওয়েবসাইট, সব ইনফো পাচ্ছি, বেশি প্রফেশনাল 
+
+Q20. "In offline we used to go in different shops to review and research about products and to guess current market price. We can also do the same via social media".  How much do you agree and why? 
+A. দুইটাতেই সম্ভব 
+
+Q21. "Many people likes talking one to one with shopkeeper during buying products. Social media comes with chatting feature where you can chat one to one with anyone you like. Chatting with shopkeeper or shop social media handle replicates one to one talking. "  How much do you agree and why. 
+A. সম্ভব কিন্তু করা হয় না আসলে, কিনা হয় নাই সোশ্যাল মিডিয়া থেকে 
+
+Q22. "Buying in social media is closer to physical shopping than website."  How much do you agree and why. 
+A. না 
+
+Q23. "Social media is more convenient than shop websites". Do you agree. 
+A. nan 
+
+Q24. "Social media is easy to use then shopping websites."  How much do you agree? 
+A. না 
+
+Q25. "It is more human friendly and less mechanical to shop in social media than in websites."  How much do you agree? 
+A. না শপিং এর জন্যে, জানার জন্যে হ্যা। সোশ্যাল মিডিয়া থেকে নাম পাবো,ওয়েবসাইটে কিনবো 
+
+Q26. "Social media handles lacks the formality of website.  "How much do you agree. 
+A. হ্যা অবশ্যই 
+
+Q27. Do you like lack of formality or formality of social media shops? 
+A. না 
+
+Q28. Do you think it is the reason for social media being more or less convenient? 
+ 
+A. হ্যা 
+
+Q29. "Mass people of Bangladesh can use social media more skilfully than websites. " Do you agree.  
+A. হ্যা 
+
+Q30. "Mass people uses social media more than any other websites. Its interface are familiar to people. So it is more intuitive to them for using social media." Do you agree. 
+A. হ্যা 
+
+Q31. "Different websites has different interface. Its make harder for mass people to use it." Do you agree 
+A. না, ইকমার্স প্রায় সবই সেম 
+
+Q32. "Shops with more social media activity seems more trustworthy." Do you agree. 
+A. হ্যা, ইন্টার‍্যাকশন, আপডেট, রিভিউ এর কারনে। 
+
+Q33. "Familiar shops with known name makes them trustworthy." Do you agree. 
+A. হ্যা, 
+
+Q34. When you see many posts or activities you get familiar to the name of the shop. How does it influences you? 
+A. হ্যা 
+
+Q35. Do you check for reviews of a store in social media before buying any product? If yes how the review influences you? 
+A. হ্যা, ইনফ্লুয়েন্স করে, পজিটিভ হলে কিনি 
+
+Q36.  "No of stars or no of positive reviews reflect the credibility." Do you agree. 
+A. হ্যা 
+
+Q37. "After buying products,  I always give feedback about their product in their social media handle." Do you agree. 
+A. ওয়েবসাইটে দেই, সোশ্যাল মিডিয়ায় দেই না 
+
+Q38. "My review will help someone in future to take their decisions." Do you agree.  
+A. হ্যা 
+
+Q39. "It is useful in social media that feedback can be given both personally and privately in social media." Do you agree? 
+A. দোকানের জন্যে খুব একটা হেল্পফুল না। 
+
+Q40. If you buy any product form a social media handle, social media algorithm will bring that shop again and again. How does this influence you to buy again? 
+A. করে, পজিটিভ নেগেটিভ দুইভাবেই ইনফ্লুয়েন্স করে। প্রোয়োজনীয় হলে পজিটিভ।  
+
+Q41. The above-mentioned feature is very useful. How much do you agree? 
+A. করা উচিত 
+
+Q42. "When I go to a physical shop and read review of products of that shop on social media."  Do you agree 
+A. হ্যা 
+
+Q43. "Reviews of social media handle influence my decision in physical stores." Do you agree.  
+A. হ্যা, যাওয়ার আগে চেক করে যাই 
+
+Q44. "I always share review of a physical store in social media." Do you agree. 
+A. না, ওয়েবসাইটে করি 
+
+Q45. "It is easier to give review in social media than physically."  Do you agree 
+A. না 
+
+Q46. How much your social media influences you to from selecting a shop to buying something from that shop? 
+A. সিলেক্ট করতে ইনফ্লুয়েন্স করে 
+
+Q47. Do you have any relatives in rural area? 
+A. হ্যা 
+
+Q48. What percentage of rural people use social media at a moderate rate? (checks social media 2-3 times daily) 
+A. কমবয়সী সবাই করে 
+
+Q49. Now a days, different online shops without any offline outlet are there. Normally they use their own home to store and also as shop. How frequently this phenomenon has been observed by you in your rural area?  
+A. হ্যা, পজিটিভ 
+
+Q50. Do you think using social media as their method of advertisement is effective? why? 
+A. ওয়েবসাইট ছাড়া খুব একটা ভালো না, ওয়েবসাইট থাকলে ট্রাস্টেড। ad এর জন্যে সোস্যাল মিডিয়া বেটার 
+
+Q51. How frequently do you check emails?  
+A. রেগুলার 
+
+Q52. Which form of advertisement do you think will reach widely in Bangladesh? 
+A. youtube, social media 
+
+Q53. Do you think promotions or special offers can be broadcast effectively via social media more effectively?  
+A. youtube most effective, social media এর মাধ্যমেও করা যায় 
+
+Q54. How you can be contacted and reached except calling via phone? 
+A. মেইল বা সোশ্যাল মিডিয়া 
+
+Q55. Any further opinion 
+A. . 
+
+Q56. Any Comments about questioneer 
+A. . 
+
+Q57. What are the advantages or disadvantages of Conducting Business through social media? 
+A. nan 
+
+Q58. What are the reasons of above choice 
+A. nan 
+
+Q59. Any further opinion.1 
+A. nan 
+
+Q60. Social media has very little entry barrier compared to websites. How much do you agree? 
+A. nan 
+

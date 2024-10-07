@@ -1,0 +1,184 @@
+Q1. Timestamp 
+A. 16/09/2024 14:12:00 
+
+Q2. Name 
+A. Jannatul Bushra Jarin 
+
+Q3. Age 
+A. 22 
+
+Q4. Gender 
+A. Female 
+
+Q5. Living place(Home district) 
+A. Jatrabari (Dhaka) 
+
+Q6. Contact no(Optional) 
+A. nan 
+
+Q7. Email(optional) 
+A. nan 
+
+Q8. Education 
+A. Undergraduate  
+
+Q9. Occupation 
+A. Student 
+
+Q10. Electronic devices used by you 
+A. Smart Phone, Laptop or Desktop 
+
+Q11. Do you use social media? 
+A. Yes 
+
+Q12. How many hours in a day do you use social media? 
+A. 3-4 
+
+Q13. How frequently do you buy products online? 
+A. Rare (1-2 times a year) 
+
+Q14. What are the advantages or disadvantages of shopping through social media? 
+A. Advantages is, we can save our time also it's easts way to get products. 
+Disadvantage is, some time the quality of products can be vary bad. As we can't judge it before we get it. 
+ 
+
+Q15. Do you have any online portal of your shop?  
+A. Yes 
+
+Q16. If you don't have a online portal of your shop, which will you create first? 
+A. Website 
+
+Q17. "When I go to any website I look for social media handle." How much do you agree? 
+A. Agree 
+
+Q18. What is your impression about websites  not having social media handle and What is your impression about social media handles not having websites? 
+A. nan 
+
+Q19. Over shopping in websites and shopping in social media which one you will pick? why? 
+A. Both. Some products we can easily purchases from social media so we don’t want to go to website. But there have some products before we buy them, we have to judge them, like market  price and availability etc. 
+
+Q20. "In offline we used to go in different shops to review and research about products and to guess current market price. We can also do the same via social media".  How much do you agree and why? 
+A. No we can't do it on social media  
+
+Q21. "Many people likes talking one to one with shopkeeper during buying products. Social media comes with chatting feature where you can chat one to one with anyone you like. Chatting with shopkeeper or shop social media handle replicates one to one talking. "  How much do you agree and why. 
+A. Not agree. Who love to buy products from market. They can’t enjoy it from social media.  
+
+Q22. "Buying in social media is closer to physical shopping than website."  How much do you agree and why. 
+A. No. Sopping from website gives more shopping vibe. There have lots of collection and you can judge it better as i can guess. 
+
+Q23. "Social media is more convenient than shop websites". Do you agree. 
+A. nan 
+
+Q24. "Social media is easy to use then shopping websites."  How much do you agree? 
+A. Neutral 
+
+Q25. "It is more human friendly and less mechanical to shop in social media than in websites."  How much do you agree? 
+A. Neutral 
+
+Q26. "Social media handles lacks the formality of website.  "How much do you agree. 
+A. Agree 
+
+Q27. Do you like lack of formality or formality of social media shops? 
+A. I will like formality.  
+
+Q28. Do you think it is the reason for social media being more or less convenient? 
+ 
+A. Yes it can be.  
+
+Q29. "Mass people of Bangladesh can use social media more skilfully than websites. " Do you agree.  
+A. Strongly Agree 
+
+Q30. "Mass people uses social media more than any other websites. Its interface are familiar to people. So it is more intuitive to them for using social media." Do you agree. 
+A. Agree 
+
+Q31. "Different websites has different interface. Its make harder for mass people to use it." Do you agree 
+A. Agree 
+
+Q32. "Shops with more social media activity seems more trustworthy." Do you agree. 
+A. Neutral 
+
+Q33. "Familiar shops with known name makes them trustworthy." Do you agree. 
+A. Agree 
+
+Q34. When you see many posts or activities you get familiar to the name of the shop. How does it influences you? 
+A. Yes. That make trust on us. 
+
+Q35. Do you check for reviews of a store in social media before buying any product? If yes how the review influences you? 
+A. Yes. If i see so many good review then it make trust on them. 
+
+Q36.  "No of stars or no of positive reviews reflect the credibility." Do you agree. 
+A. Agree 
+
+Q37. "After buying products,  I always give feedback about their product in their social media handle." Do you agree. 
+A. Neutral 
+
+Q38. "My review will help someone in future to take their decisions." Do you agree.  
+A. Strongly Agree 
+
+Q39. "It is useful in social media that feedback can be given both personally and privately in social media." Do you agree? 
+A. Strongly Agree 
+
+Q40. If you buy any product form a social media handle, social media algorithm will bring that shop again and again. How does this influence you to buy again? 
+A. Yes it’s true. It help us to buy again when new products arrived.  
+
+Q41. The above-mentioned feature is very useful. How much do you agree? 
+A. I think trend of rating is so useful. Then business owner also can understand how many people like their products.  
+
+Q42. "When I go to a physical shop and read review of products of that shop on social media."  Do you agree 
+A. Neutral 
+
+Q43. "Reviews of social media handle influence my decision in physical stores." Do you agree.  
+A. Neutral 
+
+Q44. "I always share review of a physical store in social media." Do you agree. 
+A. Neutral 
+
+Q45. "It is easier to give review in social media than physically."  Do you agree 
+A. Agree 
+
+Q46. How much your social media influences you to from selecting a shop to buying something from that shop? 
+A. It influence me very much. I like to shop from physical shop. 
+
+Q47. Do you have any relatives in rural area? 
+A. nan 
+
+Q48. What percentage of rural people use social media at a moderate rate? (checks social media 2-3 times daily) 
+A. It's very low 
+
+Q49. Now a days, different online shops without any offline outlet are there. Normally they use their own home to store and also as shop. How frequently this phenomenon has been observed by you in your rural area?  
+A. Yes it’s true. New business owner do it so much.  
+
+Q50. Do you think using social media as their method of advertisement is effective? why? 
+A. Yes. They advertise their product. Also it make us buy products from them. It's easy way to advertising of products.  
+
+Q51. How frequently do you check emails?  
+A. 4/5 times in a week  
+
+Q52. Which form of advertisement do you think will reach widely in Bangladesh? 
+A. nan 
+
+Q53. Do you think promotions or special offers can be broadcast effectively via social media more effectively?  
+A. Yes 
+
+Q54. How you can be contacted and reached except calling via phone? 
+A. Via Messaging is available  
+
+Q55. Any further opinion 
+A. nan 
+
+Q56. Any Comments about questioneer 
+A. nan 
+
+Q57. What are the advantages or disadvantages of Conducting Business through social media? 
+A. Advantages is, so many prople now using social media. So if business owner post any products picture on social media lots of people can see that. If anyone interests to purchased that, they can order it. It's like an advertising. 
+Disadvantage is, social media security is not strong enough. So page can be hacked by others easily.  
+
+Q58. What are the reasons of above choice 
+A. Because many prople now using social media. So if i post any products picture on social media for sell, lots of people can see that. If anyone interests to purchased that, they can order it. It's like an advertising.  
+
+Q59. Any further opinion.1 
+A. Obviously social media business owner have to make us believe that their products are good for use. Also they can't sell any bad quality products on customers for their own profit. It can effect on their business also. 
+
+Q60. Social media has very little entry barrier compared to websites. How much do you agree? 
+A. nan 
+
